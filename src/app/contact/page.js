@@ -6,4 +6,4 @@ export  function  Contact({children}) {
         {children }
     </div>  
   )
-}
+} 

@@ -21,6 +21,7 @@ export default function Hero() {
             </div>
         </header>
 
+
         <main >
             <div className=' flex justify-around items-center h-screen '>
                 <div> 
